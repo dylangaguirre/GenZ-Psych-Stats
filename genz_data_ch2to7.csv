@@ -1,4 +1,4 @@
-participant_id,age,screen_time_hours,mental_health_score,study_hours,sleep_hours,social_media_followers,self_esteem_score
+ParticipantID,Age,ScreenTime,MentalHealthScore,StudyHours,SleepHours,SocialMediaFollowers,SelfEsteemScore
 1,24,5.77,34,5,7,5669,27
 2,21,5.4,52,5,6,4400,28
 3,22,3.04,53,2,6,6369,27
@@ -42,7 +42,7 @@ participant_id,age,screen_time_hours,mental_health_score,study_hours,sleep_hours
 41,23,8.96,39,6,4,3744,18
 42,23,4.96,55,2,6,4532,26
 43,24,4.38,48,7,6,1376,33
-44,23,5.0,57,1,7,5911,29
+44,23,5,57,1,7,5911,29
 45,20,7.83,55,4,7,402,32
 46,21,6.66,49,5,9,738,27
 47,24,4.94,42,4,8,155,30
